@@ -13,4 +13,12 @@ tkt<br>
 [![](https://visitcount.itsvg.in/api?id=FarfadetMarginal&icon=5&color=13)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-](https://www.figma.com/design/Wg0AZJ1aENmQ84pbh5fRWm/Scenty?node-id=0-1&t=UU7UFaBQD64Bt98N-1)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=FarfadetMarginal&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=FarfadetMarginal&theme=ambient_gradient&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=FarfadetMarginal&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
