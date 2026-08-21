@@ -96,7 +96,9 @@
 ###
 
 <div data-importer="music" align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=false" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/1m893b2wh4r5v1eqe7dhgocr5">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=1m893b2wh4r5v1eqe7dhgocr5&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
 </div>
 
 ###
